@@ -1,0 +1,14 @@
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\obj\Debug\netcoreapp2.1\Driver.csprojAssemblyReference.cache
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\obj\Debug\netcoreapp2.1\Driver.csproj.CoreCompileInputs.cache
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\obj\Debug\netcoreapp2.1\Driver.AssemblyInfoInputs.cache
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\obj\Debug\netcoreapp2.1\Driver.AssemblyInfo.cs
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\bin\Debug\netcoreapp2.1\Driver.deps.json
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\bin\Debug\netcoreapp2.1\Driver.runtimeconfig.json
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\bin\Debug\netcoreapp2.1\Driver.runtimeconfig.dev.json
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\bin\Debug\netcoreapp2.1\Driver.dll
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\bin\Debug\netcoreapp2.1\Driver.pdb
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\bin\Debug\netcoreapp2.1\Arrays.dll
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\bin\Debug\netcoreapp2.1\Arrays.pdb
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\obj\Debug\netcoreapp2.1\Driver.csproj.CopyComplete
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\obj\Debug\netcoreapp2.1\Driver.dll
+C:\Users\arnol\source\Collections\GuideToCollections\Driver\obj\Debug\netcoreapp2.1\Driver.pdb
